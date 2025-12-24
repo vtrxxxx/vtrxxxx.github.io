@@ -133,7 +133,7 @@
         text-align: center;
     }
 }
-@media(max-width: 320px){
+@media(max-width: 420px){
     .top-sales-section{
         height: auto;
     }
@@ -193,6 +193,4 @@
         font-size: 12px;
         max-width: 70px;
     }
-    
-
 }

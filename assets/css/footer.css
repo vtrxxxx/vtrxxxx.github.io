@@ -58,7 +58,7 @@
         margin-inline: var(--margin-50);
     }
 }
-@media(max-width: 320px){
+@media(max-width: 420px){
     .footer-top-container{
         display: flex;
         flex-direction: column;
